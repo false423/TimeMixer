@@ -1,0 +1,6 @@
+classification_PaviaU_none_TimeMixer_PaviaU_sl96_pl0_dm32_nh4_el4_dl1_df32_fc3_ebtimeF_dtTrue_Exp_0  
+accuracy:0.6080038572806171
+
+classification_PaviaU_none_TimeMixer_PaviaU_sl96_pl0_dm32_nh4_el4_dl1_df32_fc3_ebtimeF_dtTrue_Exp_0  
+accuracy:0.7786081645773063
+

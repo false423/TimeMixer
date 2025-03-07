@@ -1,0 +1,6 @@
+classification_GM01_none_TimeMixer_GM01_sl96_pl0_dm32_nh4_el4_dl1_df32_fc3_ebtimeF_dtTrue_Exp_0  
+accuracy:0.983909952188564
+
+classification_GM01_none_TimeMixer_GM01_sl96_pl0_dm32_nh4_el4_dl1_df32_fc3_ebtimeF_dtTrue_Exp_0  
+accuracy:0.9806737147734681
+
